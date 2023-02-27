@@ -11,5 +11,8 @@
     },
     "keywords": [],
     "author": "Nic",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^18.14.2"
+    }
 }
