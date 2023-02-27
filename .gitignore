@@ -105,3 +105,8 @@ dist
 
 # added by self
 package-lock.json
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
