@@ -11,5 +11,9 @@
     },
     "keywords": [],
     "author": "Nic",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^18.14.2",
+        "csvtojson": "^2.0.10"
+    }
 }
