@@ -1,0 +1,15 @@
+{
+    "name": "discord-navigation-bot",
+    "version": "1.0.0",
+    "description": "A navigation from one stop to another stop in Hessen",
+    "main": "index.js",
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Nic",
+    "license": "ISC"
+}
